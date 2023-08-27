@@ -1,0 +1,5 @@
+Name of the customer is: Rosan
+Date of return of custome is: 2022-08-25 18:53:30
+Total fine is: $2
+Customes rented are: 
+	1. Formal Outfit --- Megaplex

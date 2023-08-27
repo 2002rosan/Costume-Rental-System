@@ -1,0 +1,4 @@
+Formal Outfit,Megaplex,$19.99,20
+Fairy Costume,SaintLaurent,$20.00,40
+Spider Costume,Marvel INC,$25.30,50
+SuperMan Costume,DC Comics,$29.99,60

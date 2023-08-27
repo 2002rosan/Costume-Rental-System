@@ -1,0 +1,5 @@
+Name of the customer is: Rosan
+Date of rent of custome is: 2022-08-26 12:23:55
+Total Price of custome is: $19.99
+Customes rented are: 
+	1. Formal Outfit --- Megaplex
